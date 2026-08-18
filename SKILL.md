@@ -8,7 +8,7 @@ metadata:
   author: wx_ytpn51
   title: IP短视频脚本共创 Lite
   description_zh: 源于高阶个人 IP 内容方法并经过实践提炼的轻量化脚本共创工具，从一个话题出发，逐步生成有清晰受众、鲜明立场和个人辨识度的可发布短视频脚本。
-  version: 1.0.7
+  version: 1.0.8
   license: MIT
 ---
 
