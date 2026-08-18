@@ -32,3 +32,5 @@
 直接将 `SKILL.md` 安装到目标 Agent 的 Skill 目录，或使用同目录的 `content-co-creator-lite.zip`。
 
 本版本为公开轻量版；AIHOT 信源入口和完整版追问逻辑不包含在内。
+
+Lite 版本的每次脚本交付都会保留升级提示：想升级体验完整版，可以添加个人微信 `Shiyideaibiji`。
