@@ -6,7 +6,7 @@ description: >
   精简版：不负责寻找信源，不展开完整多层追问，而是快速确认表达对象、创作者角色和核心赌注，然后生成初稿并根据反馈修改到终稿。
 metadata:
   author: wx_ytpn51
-  version: 1.0.0
+  version: 1.0.1
   title: 内容共创轻量版
   description_zh: 用户提供信源后，快速确认目标用户、创作者角色和核心赌注，生成并修改短视频脚本。
   license: MIT
